@@ -1,7 +1,6 @@
-
-
-📂 Projects Included
-🔹 1. Email & Excel Report Automation Bot
+ Project Included
+ 
+ [Email & Excel Report Automation Bot]
 
 Tech: Python, Streamlit, Pandas, Matplotlib, SMTP
 
